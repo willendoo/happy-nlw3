@@ -8,7 +8,7 @@
 
 
 ## 🌐 The Project
-- Happy is an application to celebrate Children's Day. In this project orphanages can be registered, showing to other people, when it its open for visit, helping people to find orphanages to visit, making some kids happier.
+- Happy is an application to celebrate Children's Day. In this project orphanages can be registered, showing to other people when it is open for visits, also, showing the route. Helping people to find orphanages to visit, making some kids happier.
 
 ## 🚀 Technologies
 - Node.js
