@@ -1,4 +1,11 @@
-# happy-nlw3
+<p align="center">
+  <img alt="Happy" src=".github/logo.png" width="30%">
+</p>
+
+<p align="center">
+  <img alt="Happy" src=".github/happyscreen.png" width="80%">
+</p>
+
 
 ## 🌐 The Project
 - Happy is an application to celebrate Children's Day. This project helps people to find orphanages to visit.
